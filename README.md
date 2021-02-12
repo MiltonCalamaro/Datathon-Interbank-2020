@@ -12,7 +12,7 @@ El reto consiste en desarrollar un algoritmo predictivo que estime la probabilid
 * pandas==1.2.1
 * tensorflow==2.4.1
 
-## Resultado Final de la competencia en la plataforma de Kaggle: 
+## Resultado Final de la competencia en la plataforma de Kaggle con más 220 participantes: 
 * 5to puesto en la tabla pública con score auc de 0.85747 
 * 11vo puesto en la tabla privada con score auc de 0.85870 
 

@@ -11,3 +11,10 @@ El reto consiste en desarrollar un algoritmo predictivo que estime la probabilid
 * numpy==1.19.5
 * pandas==1.2.1
 * tensorflow==2.4.1
+
+## Resultado Final de la competencia en la plataforma de Kaggle: 
+* 5to puesto en la tabla pública con 0.85747 
+* 11vo puesto en la tabla privada con 0.85870 
+
+## Link del evento
+https://www.kaggle.com/c/interbank20

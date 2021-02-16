@@ -1,0 +1,57 @@
+#### results in kagle
+			 privada   publica
+only_lgbm                0.85752   0.85651
+stacking                 0.85799   0.85644
+mean_all_stacking        0.85841   0.85686 
+mean_500_stacking        0.85836   0.85686
+final                    0.85869   0.85716
+
+#### con fi_lgbm y fi_catboost y  lgbm_cf full
+			 privada    publica
+only_lgbm                0.85752   0.85651
+stacking                 0.85811   0.85657
+mean_all                 0.85736   0.85603
+mean_500                 0.85592   0.85429
+mean_all_stacking        0.85846   0.85699
+mean_500_stacking        0.85807   0.85647
+final                    0.85853   0.85701
+
+#### con fi_lgbm y fi_catboost y  lgbm_cf recorted
+			 privada   publica
+only_lgbm                0.85752   0.85651
+stacking                 0.85799   0.85644
+mean_all                 0.85736   0.85603
+mean_500                 0.85592   0.85429
+mean_all_stacking        0.85839   0.85692
+mean_500_stacking        0.85796   0.85637
+final                    0.85845   0.85693
+
+#### con fi_catboost en ambos y lgbm_cf recorted
+			privada     publica
+only_lgbm               0.85752     0.85651
+stacking                0.85799     0.85644
+mean_all                0.85736     0.85603
+mean_500                0.85646     0.85511
+mean_all_stacking       0.85839     0.85692
+mean_500_stacking       0.85821     0.85672
+final                   0.85860     0.85713
+
+#### con fi_catboost en ambos y lgbm_cf recorted. Add gbc
+			privada     publica
+only_lgbm               0.85752     0.85651
+stacking                0.85805     0.85650
+mean_all                0.85736     0.85603
+mean_500                0.85646     0.85511
+mean_all_stacking       0.85841     0.85694
+mean_500_stacking       0.85822     0.85674
+final                   0.85861     0.85714
+
+
+#### con fi_catboost en ambos y lgbm_cf full. Add gbc
+only_lgbm               0.85752     0.85651
+stacking                0.85819     0.85664
+mean_all                0.85736     0.85603
+mean_500                0.85646     0.85511
+mean_all_stacking       0.85848     0.85702
+mean_500_stacking       0.85831     0.85683
+final                   0.85870     0.85723
